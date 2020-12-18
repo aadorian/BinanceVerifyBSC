@@ -1,0 +1,25 @@
+{
+  "name": "binanceetherscan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadorian/binanceEtherscan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadorian/binanceEtherscan/issues"
+  },
+  "homepage": "https://github.com/aadorian/binanceEtherscan#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "dotenv": "^8.2.0",
+    "truffle": "^5.1.58",
+    "truffle-plugin-verify": "^0.5.2"
+  }
+}
